@@ -1,0 +1,8 @@
+#HOME
+"/":
+  controller: main
+  action: home
+
+"/jobs":
+  controller: main
+  action: candidates

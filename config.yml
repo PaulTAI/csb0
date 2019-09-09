@@ -1,0 +1,8 @@
+---
+configuration:
+  dbhost: db
+  dbname: csgoboost
+  dbuser: postgres
+  dbpwd: root
+  dbport: 5432
+  host: http://localhost:8096/
